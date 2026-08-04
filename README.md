@@ -2,7 +2,7 @@
 
 # Hey, I'm Manideep Daram
 
-### Full Stack Developer | AI Builder | Open Source Enthusiast
+### Software Engineer | Full Stack Developer | AI Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manideep-daram)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manideepdaram@gmail.com)
@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm a full-stack developer who builds production-ready applications from concept to deployment. I specialize in the MERN stack and AI integration, with a passion for creating tools that solve real-world problems. I've deployed **6 full-stack projects** with working backends, real databases, and live users — not just prototypes.
+Computer Science graduate (CGPA 8.53) with hands-on internship experience building production-ready web applications. I specialize in React and Vue.js frontends with API integration, backend awareness via Node.js and MongoDB, and AI-powered tools that solve real problems. I've deployed **6 full-stack projects** with working backends, real databases, and live users.
 
-I believe in shipping fast, iterating based on real usage, and building things that actually work.
+Open to entry-level SDE roles across Frontend, Backend, and Full-Stack development.
 
 ---
 
@@ -27,7 +27,23 @@ I believe in shipping fast, iterating based on real usage, and building things t
 
 - Building **AI-powered education and agriculture tools** using LLMs and real-time systems
 - Deploying production backends on **Render** and **Vercel** with **MongoDB Atlas**
-- Contributing to open source and expanding my DSA fundamentals (100+ problems solved)
+- Solving **100+ DSA problems** on LeetCode and GeeksforGeeks
+
+---
+
+## Experience
+
+### Software Engineer Intern — Crystalline Software Technologies
+
+*Dec 2023 - Jun 2024 | Hyderabad, India (On-site)*
+
+- Built production-ready **Vue.js components** for internal enterprise applications
+- Integrated **REST APIs** and implemented real-time data rendering
+- Collaborated in **Agile sprints**, daily standups, and code reviews
+- Debugging workflows and optimized UI responsiveness
+- Worked alongside backend teams on **API contracts** and error handling
+
+**Tech Stack:** React.js, Vue.js, JavaScript, HTML5, CSS3, REST APIs, Git, Firebase
 
 ---
 
@@ -38,9 +54,12 @@ I believe in shipping fast, iterating based on real usage, and building things t
 <td><b>Frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -57,6 +76,7 @@ I believe in shipping fast, iterating based on real usage, and building things t
 <td>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </td>
 </tr>
 <tr>
@@ -68,12 +88,13 @@ I believe in shipping fast, iterating based on real usage, and building things t
 </td>
 </tr>
 <tr>
-<td><b>DevOps</b></td>
+<td><b>Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -147,33 +168,44 @@ I believe in shipping fast, iterating based on real usage, and building things t
 
 ---
 
-## How I Work
-
-| Principle | What It Means |
-|-----------|---------------|
-| **Ship fast, iterate** | I deploy early, get real feedback, and improve based on usage — not assumptions |
-| **Full ownership** | From database schema to UI polish, I own the entire stack end-to-end |
-| **Build to last** | Clean code, proper error handling, and documentation so future-me doesn't suffer |
-
----
-
 ## Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| B.Tech Computer Science | Vidya Jyothi Institute of Technology, Hyderabad | 2020 - 2024 |
-
-**CGPA:** 8.53 / 10
+<table>
+<tr>
+<td><b>Degree</b></td>
+<td>B.Tech in Computer Science and Engineering</td>
+</tr>
+<tr>
+<td><b>Institution</b></td>
+<td>Vidya Jyothi Institute of Technology (VJIT), Hyderabad</td>
+</tr>
+<tr>
+<td><b>Year</b></td>
+<td>2020 - 2024</td>
+</tr>
+<tr>
+<td><b>CGPA</b></td>
+<td>8.53 / 10</td>
+</tr>
+<tr>
+<td><b>Coursework</b></td>
+<td>Algorithms, Data Structures, Web Technologies, OS, DBMS</td>
+</tr>
+<tr>
+<td><b>Activities</b></td>
+<td>Technical Hackathons, Computer Vision Club, Table Tennis Club</td>
+</tr>
+</table>
 
 ---
 
 ## Achievements
 
 - **6 production-ready projects** deployed with working backends and live users
+- **Software Engineer Intern** at Crystalline Software Technologies (Dec 2023 - Jun 2024)
 - **100+ DSA problems** solved on LeetCode and GeeksforGeeks
-- **Real-time AI integration** using OVHcloud Mistral model across multiple apps
-- **Multilingual support** for 5 Indian languages in agricultural marketplace
-- **Full-stack ownership** from database design to deployment pipeline
+- **Built Vue.js enterprise components** integrated with REST APIs in Agile environment
+- **Multilingual AI support** for 5 Indian languages in agricultural marketplace
 
 ---
 
