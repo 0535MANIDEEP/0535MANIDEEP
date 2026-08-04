@@ -166,12 +166,6 @@ I believe in shipping fast, iterating based on real usage, and building things t
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0535MANIDEEP&theme=radical&hide_border=true&background=0d1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
-
-</div>
-
 ---
 
 ## Education
