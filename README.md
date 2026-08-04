@@ -157,17 +157,6 @@ I believe in shipping fast, iterating based on real usage, and building things t
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=0535MANIDEEP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0535MANIDEEP&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
 ## Education
 
 | Degree | Institution | Year |
