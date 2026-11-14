@@ -25,7 +25,6 @@ Every link below works and needs no account to open.
 | --- | --- | --- |
 | **TaskFlow** | Full stack task manager. Admin and member roles, with every access rule written once in the service layer and enforced by the API | [Live](https://taskflow-web-rosy.vercel.app) · [Code](https://github.com/0535MANIDEEP/taskflow) |
 | **DocVault** | Document management with role based access control on both the interface and the API, with a button that shows the server refusing a request | [Live](https://docvault-blond-rho.vercel.app) · [Code](https://github.com/0535MANIDEEP/docvault) |
-| **Android Blood Bank** | Native Android app: donor registration, blood stock, proximity-ranked donor matching, fully offline | [APK](https://github.com/0535MANIDEEP/blood-bank-android/releases/download/v1.0/BloodBank-v1.0.apk) · [Code](https://github.com/0535MANIDEEP/blood-bank-android) |
 
 Both web apps are deployed on free tiers, with public source and automated
 tests that run on every push.
@@ -71,12 +70,9 @@ Agile Development
 **B.Tech, Computer Science and Engineering** · Vidya Jyothi Institute of
 Technology, Hyderabad · Aug 2020 - Apr 2024 · CGPA 8.53 / 10.0
 
-Co-author of a paper in a UGC approved journal, April 2024:
-[FoodForward: An Initiative to Reduce Food Wastage](https://www.jetir.org/papers/JETIR2404570.pdf)
-
 ---
 
 ## Portfolio
 
-The full site, with the same projects, the internship and the publication:
+The full site, with the same projects and the internship:
 [0535manideep.github.io/manideepdaram](https://0535manideep.github.io/manideepdaram/)
