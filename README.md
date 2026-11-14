@@ -2,7 +2,7 @@
 
 # Manideep Daram
 
-**Frontend Developer** · Vue.js · React · TypeScript · REST APIs
+**Full Stack Developer** · React · Vue · TypeScript · Node.js · PostgreSQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0535manideep.github.io/manideepdaram/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manideep-daram)
@@ -59,7 +59,7 @@ tests that run on every push.
 **Web and APIs:** REST APIs, JSON, Role Based Access Control, Single Page
 Applications, Responsive Design, Form Validation
 
-**Back end and data:** Node.js, Express, PostgreSQL, MySQL, SQL
+**Back end and data:** Node.js, Express, PostgreSQL, SQL
 
 **Testing and tools:** Vitest, GitHub Actions, Git, GitHub, VS Code, Vercel,
 Agile Development
