@@ -70,6 +70,9 @@ Agile Development
 **B.Tech, Computer Science and Engineering** · Vidya Jyothi Institute of
 Technology, Hyderabad · Aug 2020 - Apr 2024 · CGPA 8.53 / 10.0
 
+Co-author of a paper in a UGC approved journal, April 2024:
+[FoodForward: An Initiative to Reduce Food Wastage](https://www.jetir.org/papers/JETIR2404570.pdf)
+
 ---
 
 ## Portfolio
