@@ -2,80 +2,81 @@
 
 # Manideep Daram
 
-**Full Stack Developer** · React · Vue · TypeScript · Node.js · PostgreSQL
+**Full Stack Developer** — React, Vue, TypeScript, Node, PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0535manideep.github.io/manideepdaram/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manideep-daram)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manideepdaram@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0535MANIDEEP)
+<a href="https://0535manideep.github.io/manideepdaram">Portfolio</a> · <a href="https://linkedin.com/in/manideep-daram">LinkedIn</a> · <a href="https://github.com/0535MANIDEEP/0535MANIDEEP">This README</a> · <a href="mailto:manideepdaram@gmail.com">Email</a>
 
 </div>
 
-B.Tech Computer Science graduate, 8.53 CGPA, with seven months of frontend
-internship on a production risk-management application and two full stack
-projects live on free tiers.
+Final-year Computer Science graduate (May 2024, 8.53 CGPA). Interned 7 months at Crystalline Software Technologies building Vue.js for a production risk-management app; now ship two public projects small enough to read in an evening, with tests on every push. Open to full stack and backend roles where I can own a feature end to end.
 
 ---
 
 ## Live work
 
-Every link below works and needs no account to open.
+Everything listed here is deployed; you can click it. All public sources.
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **TaskFlow** | Full stack task manager. Admin and member roles, with every access rule written once in the service layer and enforced by the API | [Live](https://taskflow-web-rosy.vercel.app) · [Code](https://github.com/0535MANIDEEP/taskflow) |
-| **DocVault** | Document management with role based access control on both the interface and the API, with a button that shows the server refusing a request | [Live](https://docvault-blond-rho.vercel.app) · [Code](https://github.com/0535MANIDEEP/docvault) |
+| Project | What it is | Live link | CI |
+| --- | --- | --- | --- |
+| **TaskFlow** | Full stack task manager. REST APIs in Node and Express (layered architecture), JWT auth, role-based rules in the service layer | [taskflow-web-rosy.vercel.app](https://taskflow-web-rosy.vercel.app) | 44 tests |
+| **DocVault** | Document management with a single permissions matrix read by both the UI and the API — viewer/reviewer/admin see different applications | [docvault-blond-rho.vercel.app](https://docvault-blond-rho.vercel.app) | 15 tests |
+| **Portfolio** | This site and this README — same React, same TypeScript, same discipline | [0535manideep.github.io/manideepdaram](https://0535manideep.github.io/manideepdaram/) | verified before every push |
 
-Both web apps are deployed on free tiers, with public source and automated
-tests that run on every push.
+Both apps deploy on free Vercel tiers. TaskFlow sits on Neon Postgres (free tier). DocVault is a pure static frontend with a small in-memory data layer — 15 tests around the permissions matrix. Not a single ₹ was spent on the entire build — only time.
+
+---
+
+## What I ship
+
+- **TypeScript end to end** — components, services, schemas, tests
+- **RBAC done properly** — one permissions matrix, read everywhere, refusal enforced at the server boundary
+- **Documentation as code** — readmes explain the design, not just the setup
+- **Automated tests + GitHub Actions** on every push to main, no exceptions
+- **Access control, secrets, input validation** — not optional, not skipped
+
+These are the five things I look for in every repository I touch, including my own two.
 
 ---
 
 ## Experience
 
-### Frontend Developer Intern · Crystalline Software Technologies
+**Frontend Developer Intern — Crystalline Software Technologies**  
+*Dec 2023 – Jun 2024 · Hyderabad*
 
-*Dec 2023 - Jun 2024 · Hyderabad*
-
-- Built forms, screens, tabs and navigation for a production risk-management
-  single page application in Vue.js, on the same release cycle as the backend team
-- Implemented client-side form validation, loading screens and empty states to
-  handle invalid input and asynchronous or missing data
-- Implemented role based access control for document management, controlling
-  document access by user role
-- Supported the migration of legacy JavaScript files to TypeScript
-- Integrated REST API responses into frontend components, tested endpoints in
-  Postman, and investigated and debugged application issues
+- Built Vue.js screens for a production risk-management SPA used by teams in real operations
+- Shipped CRUD flows for internal workflows with client-side validation and empty/loading states
+- Integrated REST APIs from the backend team into Vue components
+- Migrated legacy JavaScript files to TypeScript, preserving test coverage
 
 ---
 
-## Technical skills
+## Capability under the hood
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+**Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5/CSS3  
+**Frontend:** React, Next.js, Vue.js, responsive/mobile-first patterns  
+**Backend:** Node.js, Express, REST APIs, JSON Web Auth  
+**Database:** PostgreSQL, MySQL, SQLite, MongoDB (via team API)  
+**Auth:** JWT, bcrypt — roles enforced at service boundary, not UI  
+**Testing:** Vitest (unit + integration), Postman  
+**Tooling:** Git, GitHub Actions, Vercel, Vite, npm workspaces, CI/CD on every push  
 
-**Frameworks:** Vue.js, React.js
-
-**Web and APIs:** REST APIs, JSON, Role Based Access Control, Single Page
-Applications, Responsive Design, Form Validation
-
-**Back end and data:** Node.js, Express, PostgreSQL, SQL
-
-**Testing and tools:** Vitest, GitHub Actions, Git, GitHub, VS Code, Vercel,
-Agile Development
+I'd rather tell you what I haven't done than guess at it — if you have a problem outside the above, ask.
 
 ---
 
 ## Education
 
-**B.Tech, Computer Science and Engineering** · Vidya Jyothi Institute of
-Technology, Hyderabad · Aug 2020 - Apr 2024 · CGPA 8.53 / 10.0
+**B.Tech, Computer Science and Engineering** — Vidya Jyothi Institute of Technology, Hyderabad  
+Aug 2020 – Apr 2024 · CGPA 8.53/10.0
 
-Co-author of a paper in a UGC approved journal, April 2024:
-[FoodForward: An Initiative to Reduce Food Wastage](https://www.jetir.org/papers/JETIR2404570.pdf)
+Co-author, *“FoodForward: An Initiative to Reduce Food Wastage”*, JETIR (UGC-approved journal), April 2024. [Read it here.](https://www.jetir.org/papers/JETIR2404570.pdf)
 
 ---
 
-## Portfolio
+## Now
 
-The full site, with the same projects and the internship:
-[0535manideep.github.io/manideepdaram](https://0535manideep.github.io/manideepdaram/)
+- Open to full stack / backend roles — Hyderabad / remote / hybrid
+- Available immediately
+- Comfortable with small teams and small scope; not comfortable with vanity work
+
+**Reach me:** [manideepdaram@gmail.com](mailto:manideepdaram@gmail.com) — I read everything. I reply to applications.
