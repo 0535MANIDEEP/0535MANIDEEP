@@ -1,82 +1,73 @@
 <div align="center">
 
-# Manideep Daram
+<img src="https://raw.githubusercontent.com/0535MANIDEEP/0535MANIDEEP/main/github-banner.png" alt="Manideep Daram — Full Stack Developer" width="100%" />
 
-**Full Stack Developer** — React, Vue, TypeScript, Node, PostgreSQL
+**Full Stack Developer — React · Vue · TypeScript · Node.js · PostgreSQL**
 
-<a href="https://0535manideep.github.io/manideepdaram">Portfolio</a> · <a href="https://linkedin.com/in/manideep-daram">LinkedIn</a> · <a href="https://github.com/0535MANIDEEP/0535MANIDEEP">This README</a> · <a href="mailto:manideepdaram@gmail.com">Email</a>
+B.Tech CSE May 2024 · 8.53 / 10.0 · Interned on a production risk-management app · Two shipped public projects · Role-based access control enforced at the API, not hidden in the UI
+
+<a href="https://0535manideep.github.io/manideepdaram/">🌐 Portfolio</a> ·
+<a href="https://linkedin.com/in/manideep-daram">in LinkedIn</a> ·
+<a href="mailto:manideepdaram@gmail.com">✉ Email</a>
 
 </div>
 
-Final-year Computer Science graduate (May 2024, 8.53 CGPA). Interned 7 months at Crystalline Software Technologies building Vue.js for a production risk-management app; now ship two public projects small enough to read in an evening, with tests on every push. Open to full stack and backend roles where I can own a feature end to end.
+---
+
+## About me
+
+I build **end-to-end web applications** in TypeScript — React 19 and Next.js on the front end, Node.js and Express on the back, PostgreSQL underneath. B.Tech in Computer Science, 8.53 CGPA from Vidya Jyothi Institute of Technology, Hyderabad (Aug 2020 – Apr 2024).
+
+Interned for **7 months at Crystalline Software Technologies** — shipped Vue.js screens for a production risk-management SPA, alongside the backend team. I enforce access control at the service layer — the rule comes from the database, not the token. I believe in tests you can open and read. I believe in free-tier deploys, no fantasy pricing.
+
+> I write code you can read to understand. Fewer comments than you expect. More tests than you do.
 
 ---
 
-## Live work
+## 📁 Currently working on
 
-Everything listed here is deployed; you can click it. All public sources.
+> **Open to fresher Full Stack roles** — Hyderabad, remote or hybrid. Bring me a real problem and I'll ship it.
 
-| Project | What it is | Live link | CI |
-| --- | --- | --- | --- |
-| **TaskFlow** | Full stack task manager. REST APIs in Node and Express (layered architecture), JWT auth, role-based rules in the service layer | [taskflow-web-rosy.vercel.app](https://taskflow-web-rosy.vercel.app) | 44 tests |
-| **DocVault** | Document management with a single permissions matrix read by both the UI and the API — viewer/reviewer/admin see different applications | [docvault-blond-rho.vercel.app](https://docvault-blond-rho.vercel.app) | 15 tests |
-| **Portfolio** | This site and this README — same React, same TypeScript, same discipline | [0535manideep.github.io/manideepdaram](https://0535manideep.github.io/manideepdaram/) | verified before every push |
-
-Both apps deploy on free Vercel tiers. TaskFlow sits on Neon Postgres (free tier). DocVault is a pure static frontend with a small in-memory data layer — 15 tests around the permissions matrix. Not a single ₹ was spent on the entire build — only time.
+- ✅ **Live** on every host: **TaskFlow** · **DocVault** · **Portfolio**
+- 📝 **Coming soon** — browser extension (page-to-Markdown, one click, INR 299 one-time, coming soon to the Chrome Web Store)
+- ✍️ **Writing** — two technical posts are shipping for `/writing` (*How I keep two apps green* / *The RBAC pattern: one matrix, two places*)
 
 ---
 
-## What I ship
+## 🔥 Featured projects
 
-- **TypeScript end to end** — components, services, schemas, tests
-- **RBAC done properly** — one permissions matrix, read everywhere, refusal enforced at the server boundary
-- **Documentation as code** — readmes explain the design, not just the setup
-- **Automated tests + GitHub Actions** on every push to main, no exceptions
-- **Access control, secrets, input validation** — not optional, not skipped
-
-These are the five things I look for in every repository I touch, including my own two.
+| Project | What it is | Status |
+| --- | --- | --- |
+| **TaskFlow** — [repo](https://github.com/0535MANIDEEP/taskflow) · [live](https://taskflow-web-rosy.vercel.app) | Full stack task manager — layered services, JWT auth, RBAC at the API, **44 tests** on every push | ✅ Live |
+| **DocVault** — [repo](https://github.com/0535MANIDEEP/docvault) · [live](https://docvault-blond-rho.vercel.app) | Document manager with enforced UI+API permissions matrix; **15 tests** on every push | ✅ Live |
+| **Portfolio** — [repo](https://github.com/0535MANIDEEP/manideepdaram) · [live](https://0535manideep.github.io/manideepdaram/) | This site, this README — tested, deployed, verified before every push | ✅ Live |
 
 ---
 
-## Experience
+## 🛠️ Stack
 
-**Frontend Developer Intern — Crystalline Software Technologies**  
-*Dec 2023 – Jun 2024 · Hyderabad*
-
-- Built Vue.js screens for a production risk-management SPA used by teams in real operations
-- Shipped CRUD flows for internal workflows with client-side validation and empty/loading states
-- Integrated REST APIs from the backend team into Vue components
-- Migrated legacy JavaScript files to TypeScript, preserving test coverage
-
----
-
-## Capability under the hood
-
-**Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5/CSS3  
-**Frontend:** React, Next.js, Vue.js, responsive/mobile-first patterns  
-**Backend:** Node.js, Express, REST APIs, JSON Web Auth  
-**Database:** PostgreSQL, MySQL, SQLite, MongoDB (via team API)  
-**Auth:** JWT, bcrypt — roles enforced at service boundary, not UI  
-**Testing:** Vitest (unit + integration), Postman  
-**Tooling:** Git, GitHub Actions, Vercel, Vite, npm workspaces, CI/CD on every push  
-
-I'd rather tell you what I haven't done than guess at it — if you have a problem outside the above, ask.
+| Layer | I use |
+| --- | --- |
+| Language | TypeScript · JavaScript (ES6+) · SQL |
+| Frontend | React 19 · Next.js · Vue.js · Tailwind CSS |
+| Backend | Node.js · Express · REST APIs · Service layer · Postgres |
+| Auth | JWT · bcrypt — rules at the service layer, never buried in the UI |
+| Testing | Vitest · Postman · GitHub Actions CI on every push |
+| Tooling | Git · Vite · Vercel · GitHub Pages · Neon (free) |
 
 ---
 
-## Education
+## ✍️ Writing & Publication
 
-**B.Tech, Computer Science and Engineering** — Vidya Jyothi Institute of Technology, Hyderabad  
-Aug 2020 – Apr 2024 · CGPA 8.53/10.0
-
-Co-author, *“FoodForward: An Initiative to Reduce Food Wastage”*, JETIR (UGC-approved journal), April 2024. [Read it here.](https://www.jetir.org/papers/JETIR2404570.pdf)
+- [FoodForward: An Initiative to Reduce Food Wastage](https://www.jetir.org/papers/JETIR2404570.pdf) — JETIR, April 2024 (UGC-approved journal)
+- Coming soon: *How I keep two apps green on every push* · *The RBAC pattern: one matrix, two places*
 
 ---
 
-## Now
+## 📫 Reach me
 
-- Open to full stack / backend roles — Hyderabad / remote / hybrid
-- Available immediately
-- Comfortable with small teams and small scope; not comfortable with vanity work
+<a href="https://linkedin.com/in/manideep-daram">in /manideep-daram</a> ·
+<a href="https://0535manideep.github.io/manideepdaram/">manideepdaram</a> ·
+<a href="mailto:manideepdaram@gmail.com">manideepdaram@gmail.com</a>
 
-**Reach me:** [manideepdaram@gmail.com](mailto:manideepdaram@gmail.com) — I read everything. I reply to applications.
+<sub>Built on free tiers, pushed to main, tested before deploy.</sub>
