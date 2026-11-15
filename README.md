@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/0535MANIDEEP/0535MANIDEEP/main/github-banner.png" alt="Manideep Daram — Full Stack Developer" width="100%" />
 
-**Full Stack Developer — React · Vue · TypeScript · Node.js · PostgreSQL**
+**Full Stack Developer | React · Vue · TypeScript · Node.js · PostgreSQL**
 
 B.Tech CSE May 2024 · 8.53 / 10.0 · Interned on a production risk-management app · Two shipped public projects · Role-based access control enforced at the API, not hidden in the UI
 
